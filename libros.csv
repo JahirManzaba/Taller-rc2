@@ -1,0 +1,6 @@
+codigo_libro,titulo,clasificacion,autor_principal,isbn,stock
+L001,Cien Anos de Soledad,novela,Gabriel Garcia Marquez,9788437604947,5
+L002,El Quijote,novela,Miguel de Cervantes,9788420412146,0
+L003,Fisica Universitaria,ciencia,Sears Zemansky,9786073221856,2
+L004,Breve Historia del Tiempo,ciencia,Stephen Hawking,9788483060469,8
+L005,El Codigo Da Vinci,novela,Dan Brown,9788408045243,1
